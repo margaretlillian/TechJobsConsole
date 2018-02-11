@@ -138,5 +138,9 @@ namespace TechJobsConsole
 
             return rowValues.ToArray();
         }
+       /* public static FindByValue()
+        {
+
+        }*/
     }
 }
